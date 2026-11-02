@@ -1,0 +1,37 @@
+# Python e ambientes locais
+.venv/
+venv/
+.runtime/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage*
+htmlcov/
+.cache/
+# Empacotamento e ferramentas pessoais
+build/
+dist/
+*.egg-info/
+.vscode/
+.idea/
+backups/
+tmp/
+temp/
+output/
+validacao/
+# Dados, saídas, documentos e credenciais locais
+dados/
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.log
+*.zip
+*.exe
+*.dll
+*.env
+.env*
+*.pem
+*.key
+Thumbs.db
+.DS_Store
