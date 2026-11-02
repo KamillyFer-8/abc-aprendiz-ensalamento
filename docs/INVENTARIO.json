@@ -52,8 +52,8 @@
     "sha256": "387ee14562637131cada87bf0b0276100840964a9e22535df63861ae4ea68bae"
   },
   "docs/PUBLICACAO.md": {
-    "bytes": 3219,
-    "sha256": "51cb5f48b1bc0f394d2b5c24a79b67f54b65762b942a93f52b30eac204fb1319"
+    "bytes": 3496,
+    "sha256": "ca19527a27f40ca28061f31c534ed0b070731fa2d73280f36541c0051fb9ab46"
   },
   "docs/VERIFICACAO.md": {
     "bytes": 2241,
@@ -62,6 +62,10 @@
   "gui.py": {
     "bytes": 34633,
     "sha256": "2e91455a702e8aee3992d6291870569b9a1114a83dbb3c2d973aa27a0371f0a0"
+  },
+  "LICENSE.md": {
+    "bytes": 2524,
+    "sha256": "d704e063ec7a52815f476ccef7e34d176161b23f37f759bdee3d27491fc5510f"
   },
   "main.py": {
     "bytes": 157,
@@ -72,8 +76,8 @@
     "sha256": "b3e633c5e915a9d54f8d3c059a56d08b5c40c6610080523546f0b6978930ff9c"
   },
   "README.md": {
-    "bytes": 13349,
-    "sha256": "02cf526daf4da9afeefd7f24e7fcdfa74b5f093670e4c364eefaea77a33aac03"
+    "bytes": 13634,
+    "sha256": "0bb9d057dc18503e71ab5b9c06b0eeb50ddfe7e78c0bedc7bb980441a028beed"
   },
   "requirements-dev.txt": {
     "bytes": 42,
