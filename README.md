@@ -274,7 +274,7 @@ O projeto conta com um manual ilustrado destinado aos usuários da aplicação.
 
 Agradecimentos à [UniSoma](https://unisoma.com.br/), organizadora do [Desafio UniSoma 2026](https://unisoma.com.br/desafio/), e à [ABC Aprendiz](https://www.abcaprendiz.org.br/). Acompanhe a [UniSoma no LinkedIn](https://www.linkedin.com/company/unisoma/).
 
-O [regulamento oficial](https://unisoma.com.br/desafio/regulamento-2026/) orienta o uso dos dados e as referências institucionais. As autorizações para publicar o código e utilizar os materiais institucionais foram confirmadas pela responsável. Não foi atribuída uma licença open source: uso e redistribuição permanecem sujeitos à autorização dos titulares.
+O [regulamento oficial](https://unisoma.com.br/desafio/regulamento-2026/) orienta o uso dos dados e as referências institucionais. As autorizações para publicar o código e utilizar os materiais institucionais foram confirmadas pela responsável. **Direitos reservados — autorização prévia necessária.** Para utilizar o aplicativo, modificar, redistribuir ou comercializar o código autoral, solicite autorização expressa, por escrito, dos três integrantes da equipe. Consulte os [termos de uso e direitos reservados](LICENSE.md), que preservam permissões anteriores, direitos de terceiros e as regras do GitHub para repositórios públicos.
 
 ## 📌 Observações
 
